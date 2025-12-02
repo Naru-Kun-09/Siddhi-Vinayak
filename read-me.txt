@@ -1,1 +1,2 @@
 it is a complete backend for siddhivinayak people management
+we will be using MySQL and Python

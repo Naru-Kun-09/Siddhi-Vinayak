@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+PyMySQL==1.1.0
+python-dotenv==1.0.0
+bcrypt==4.1.2
+PyJWT==2.8.0
+qrcode[pil]==7.4.2
+reportlab==4.0.9
+phonenumbers==8.13.27
